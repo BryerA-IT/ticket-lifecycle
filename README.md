@@ -29,7 +29,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 Submit the following tickets from the user endpoint: Mobile banking is down, Accounting is having difficulty after an Adobe update, and the CFO's laptop is running slowly.
 </p>
 <p>
-<img >
+  
+![image](https://github.com/user-attachments/assets/bdcf4898-5929-4636-b06f-e1bdf66f6302)
+
 </p>
 <br />
 <p>
