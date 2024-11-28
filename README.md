@@ -59,7 +59,7 @@ Modify the tickets to reflect the correct priority, assign departments, assign a
 </p>
 <p>
 
-  ![image](https://github.com/user-attachments/assets/0369b345-343f-4c03-8cc7-b4f6bd3761dc)
+![image](https://github.com/user-attachments/assets/f34adc4f-1f7f-47ae-b0ae-30ae7a558c5e)
 
 </p>
 <br />
