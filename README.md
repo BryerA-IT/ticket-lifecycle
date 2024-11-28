@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-Submit the following tickets from the user endpoint: Mobile banking is down, Accounting is having difficulty after an Adobe update, and the CFO's laptop is running slowly.
+Submit the following ticket from the user endpoint: Mobile banking is down.
 </p>
 <p>
   
