@@ -73,3 +73,5 @@ Modify the tickets to reflect the correct priority, assign departments, assign a
 <p>
 Document changes to the ticket and select "Resolve" when the ticket has been completed. 
 </p>
+
+![image](https://github.com/user-attachments/assets/6ae83c7a-2c0a-4829-b30e-d649f4dd9daa)
