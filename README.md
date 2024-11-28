@@ -45,10 +45,12 @@ Submit the following tickets from the user endpoint: Mobile banking is down, Acc
 <br />
 
 <p>
-Log into osTicket to view the tickets.
+Log into osTicket as an employee to view the ticket.
 </p>
 <p>
-<img height="">
+
+![image](https://github.com/user-attachments/assets/64c9c914-8057-4246-b88c-c17433a4383a)
+
 </p>
 <br />
 
@@ -56,7 +58,9 @@ Log into osTicket to view the tickets.
 Modify the tickets to reflect the correct priority, assign departments, assign an agent, and assign an SLA.
 </p>
 <p>
-<img >
+
+  ![image](https://github.com/user-attachments/assets/0369b345-343f-4c03-8cc7-b4f6bd3761dc)
+
 </p>
 <br />
 <p>
