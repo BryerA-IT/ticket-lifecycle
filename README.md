@@ -30,7 +30,8 @@ Submit the following tickets from the user endpoint: Mobile banking is down, Acc
 </p>
 <p>
   
-![image](https://github.com/user-attachments/assets/bdcf4898-5929-4636-b06f-e1bdf66f6302)
+![image](https://github.com/user-attachments/assets/32a329e5-9b7f-4c7a-b8f5-94434cf89b27)
+
 
 </p>
 <br />
